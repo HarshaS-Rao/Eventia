@@ -1,0 +1,10 @@
+.background {
+    display: relative;
+    height: 100vh;
+    color: #fff;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.abbottcards.com%2Fimages%2FTY807-W.JPG&f=1&nofb=1");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 800px;
+    font-family: var(--fuentemain);
+}
